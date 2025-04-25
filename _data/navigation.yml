@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "메뉴1"
+    url: /webTest/
+  - title: "메뉴2"
+    url: /WebTest2/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
